@@ -7,6 +7,7 @@ class String
       puts "true"
     else
       puts "false"
+    end
   end
 
   def question?
