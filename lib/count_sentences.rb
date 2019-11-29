@@ -30,5 +30,4 @@ class String
     self.split(/[!.?]/) = new_array
     new_array.count 
   end
-  end
 end
